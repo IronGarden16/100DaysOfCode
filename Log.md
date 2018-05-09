@@ -26,7 +26,7 @@ django. I'll be making sure that I'll be coding tomorrow. I have an idea on mind
 but that's an old and useless idea but I'll be doing it for the purpose of learning
 I'll be posting my project here on github too.
 
-## Day 3: A failed attempt
+## Day 3: A failed attempt (May 9, 2018 Wednesday)
 I tried making a Restful API using Django rest framework and I just couldn't make
 it work. I tried looking for tutorials but nothing works. I'll try reading more
 tutorials until it works.
