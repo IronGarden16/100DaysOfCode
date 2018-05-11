@@ -30,3 +30,9 @@ I'll be posting my project here on github too.
 I tried making a Restful API using Django rest framework and I just couldn't make
 it work. I tried looking for tutorials but nothing works. I'll try reading more
 tutorials until it works.
+
+## Day 4: Worked on a different project (May 11, 2018 Friday)
+I started working on a portfolio and focused on that today. I'll be logging my
+activity on that project if I don't have done anything on the project this is 
+supposed to be in. Haha. Kinda cheating but not really since its not a part of
+my work and neither it is part of school project. So it does count
