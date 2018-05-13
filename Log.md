@@ -36,3 +36,6 @@ I started working on a portfolio and focused on that today. I'll be logging my
 activity on that project if I don't have done anything on the project this is 
 supposed to be in. Haha. Kinda cheating but not really since its not a part of
 my work and neither it is part of school project. So it does count
+
+## Day 5: Worked on the other project again (May 13, 2018 Sunday)
+I added a section to it, and adding more to it on the following days.
