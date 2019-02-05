@@ -10,3 +10,9 @@ move my data from firebase to other free hosting such as heroku.
 
 I've already added the table for transactions. Although its not much, it should be fine for
 starters. And so today I added a couple of formatting, refactoring, and transaction form and dialog.
+
+## Day 2: Still a long way to go
+I've only coded for less than an hour today. Although I've only coded for a short time, I've learned
+an important lesson (for me at least) that I should always put the mutations and actions to the
+methods section of a vue component. I refactored the form of the transaction to use the store for its
+data model.
