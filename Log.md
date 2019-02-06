@@ -16,3 +16,9 @@ I've only coded for less than an hour today. Although I've only coded for a shor
 an important lesson (for me at least) that I should always put the mutations and actions to the
 methods section of a vue component. I refactored the form of the transaction to use the store for its
 data model.
+
+## Day 3: Transaction complete
+I added the firestore integration for the addition of transaction. I used 
+`firestore.firebase.Timestamp.fromDate(new Date())` to get the current time and date for my
+transaction dates since Firebase doesn't have their own `NOW()` equivalent from SQL aside from the said 
+technique.
