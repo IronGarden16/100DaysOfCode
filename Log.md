@@ -22,3 +22,10 @@ I added the firestore integration for the addition of transaction. I used
 `firestore.firebase.Timestamp.fromDate(new Date())` to get the current time and date for my
 transaction dates since Firebase doesn't have their own `NOW()` equivalent from SQL aside from the said 
 technique.
+
+## Day 4: Google, Who is this?
+Today, I added a way to login. Currently, I'm only using google's firebase auth and will
+add new ways to login if I see it fit. I refactored the `route.js` to have its own directory since
+I'll have new files like `routeRules.js` that is related to the routes. Refactor routes so that
+they'll use names defined on a constants file. Refactor store so that they're in a directory and
+add constants file.
