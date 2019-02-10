@@ -29,3 +29,9 @@ add new ways to login if I see it fit. I refactored the `route.js` to have its o
 I'll have new files like `routeRules.js` that is related to the routes. Refactor routes so that
 they'll use names defined on a constants file. Refactor store so that they're in a directory and
 add constants file.
+
+## Day 5: Refactor
+Today I refactored the store to be on their own module. I also namespaced them. I might remove
+the namespacing since I believe it introduced more layers of the store than wanted eg. rootGetters etc.
+I removed the type column on the transaction table and add the type indication via text color and
+additional indication via text (+ and -).
