@@ -35,3 +35,9 @@ Today I refactored the store to be on their own module. I also namespaced them. 
 the namespacing since I believe it introduced more layers of the store than wanted eg. rootGetters etc.
 I removed the type column on the transaction table and add the type indication via text color and
 additional indication via text (+ and -).
+
+## Day 6: New Version
+I found out that there is a new version of Vue. So without hesitation, I updated my project's 
+dependency. On the new version of Vue, there is a change of syntax for slots. So, I refactored my
+project to use the new syntax.
+ 
