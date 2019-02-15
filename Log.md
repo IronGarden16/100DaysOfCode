@@ -40,4 +40,8 @@ additional indication via text (+ and -).
 I found out that there is a new version of Vue. So without hesitation, I updated my project's 
 dependency. On the new version of Vue, there is a change of syntax for slots. So, I refactored my
 project to use the new syntax.
- 
+
+## Day 7: A new list
+I believe my old list of transaction isn't really that nice. So I redesigned it. I stopped using
+the data table and just used a `v-list`. It gives a much better look just like a native android app.
+For today, I also added the login persistence.
