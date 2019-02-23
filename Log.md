@@ -51,3 +51,6 @@ I've been thinking should should I make a balance feature where you can see what
 money. So, I started making those changes a few days now. But I'm still thinking of where to
 put it. So, for today. I only made the category as a list. So that I can make a median expense
 for each category.
+
+## Day 9: Moment
+I added moment for formatting my date on the transaction items.
