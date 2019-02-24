@@ -54,3 +54,6 @@ for each category.
 
 ## Day 9: Moment
 I added moment for formatting my date on the transaction items.
+
+## Day 10: Navigation Drawer
+I added the navigation drawer for today.
