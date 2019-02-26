@@ -57,3 +57,9 @@ I added moment for formatting my date on the transaction items.
 
 ## Day 10: Navigation Drawer
 I added the navigation drawer for today.
+
+## Day 11: Fixing typos, Refactor and Adding Firebase rules
+I fixed some typos. I refactored the transaction form by removing the type. The type is based on
+the transaction category so I just made it rely on the category. And also, I replaced the `v-select`
+text to be '**_category_** (**_type_**)'. I'm also adding Firebase security rules as I haven't touched
+it ever since I created the app. It kept bugging me since I left my firebase unsecured.
